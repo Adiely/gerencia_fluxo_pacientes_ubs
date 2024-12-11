@@ -1,6 +1,6 @@
 # gerencia_fluxo_pacientes_ubs
 
-# Sistema de Gestão de Fluxo de Pacientes para UBS
+# Título: Sistema de Gestão de Fluxo de Pacientes para UBS
 
 Este projeto implementa um sistema de fluxo de pacientes que abrange as etapas de recepção, triagem e atendimento clínico, com validação de dados e integração com a API da OpenAI para suporte dinâmico durante o atendimento.
 
