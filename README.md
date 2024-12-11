@@ -49,7 +49,7 @@ anonimizar_cpf("123.456.789-00")  # Saída: anon-12345
 
     ## Clone o repositório:
 
-git clone https://github.com/elaranjeiras/sistema-fluxo-pacientes.git
+git clone [https://github.com/elaranjeiras/sistema-fluxo-pacientes.git](https://github.com/elaranjeiras/gerencia_fluxo_pacientes_ubs)
 cd sistema-fluxo-pacientes
 
 # Instale as dependências:
