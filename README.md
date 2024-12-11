@@ -54,6 +54,10 @@ anonimizar_cpf("123.456.789-00")  # Saída: anon-12345
 git clone [https://github.com/elaranjeiras/sistema-fluxo-pacientes.git](https://github.com/elaranjeiras/gerencia_fluxo_pacientes_ubs)
 cd sistema-fluxo-pacientes
 
+    ## Renomear o Arquivo
+    
+Baixe o arquivo projeto_ubs.py e renomei para main.py
+
 # Instale as dependências:
 
 pip install -r requirements.txt
