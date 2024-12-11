@@ -2,7 +2,14 @@
 
 # Título: Sistema de Gestão de Fluxo de Pacientes para UBS
 
-Este projeto implementa um sistema de fluxo de pacientes que abrange as etapas de recepção, triagem e atendimento clínico, com validação de dados e integração com a API da OpenAI para suporte dinâmico durante o atendimento.
+Este projeto experimental é um tarefa da Disciplina de Prompts, ministrada pelo Profº Dr. Sanderson de Macedo, do Curso de Especialização de Sistemas e Agentes Inteligentes da Universidade Federal de Goiás. 
+Ele foi concebido para auxiliar o fluxo de pacientes, em uma Unidade Básica de Saúde - U.B.S., que abrange as etapas de recepção, triagem e atendimento clínico.
+O referido projeto usa como validação de dados e integração com a API da OpenAI para suporte dinâmico durante o atendimento.
+
+## Equipe de desenvolvimento
+   Billy Fádel
+   Edson Laranjeiras
+   Samantha Adely
 
 ## Funcionalidades
 ### 1. Administrativo (Recepção)
