@@ -11,7 +11,7 @@ O referido projeto usa como validação de dados e integração com a API da Ope
    
    Edson Laranjeiras.
    
-   Samantha Adely.
+   Samantha Adiely.
 
 ## Funcionalidades
 ### 1. Administrativo (Recepção)
