@@ -7,9 +7,11 @@ Ele foi concebido para auxiliar o fluxo de pacientes, em uma Unidade Básica de 
 O referido projeto usa como validação de dados e integração com a API da OpenAI para suporte dinâmico durante o atendimento.
 
 ## Equipe de desenvolvimento
-   Billy Fádel
-   Edson Laranjeiras
-   Samantha Adely
+   Billy Fádel.
+   
+   Edson Laranjeiras.
+   
+   Samantha Adely.
 
 ## Funcionalidades
 ### 1. Administrativo (Recepção)
